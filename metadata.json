@@ -1,0 +1,14 @@
+{
+  "name": "xml-transform",
+  "version": "0.1.0",
+  "author": "Brandon Tosch",
+  "summary": "Transforms xml content in files.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/brandontosch/puppet-xml-transform",
+  "project_page": "https://github.com/brandontosch/puppet-xml-transform",
+  "issues_url": "https://github.com/brandontosch/puppet-xml-transform/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
